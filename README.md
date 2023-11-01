@@ -3,8 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=63d3ff&size=35&center=true&vCenter=true&width=1000&lines=Olá+Visitante,+;Meu+nome+é+Bruna+Santos.;Seja+muito+bem-vindo(a)+!+:%29)](https://git.io/typing-svg)
 
 ##
-<div align="center"> 
-  
+<div align="center">   
 Sou estudante de programação com foco em **back-end**, artista e apaixonada por tecnologia e criatividade. Aqui no meu **GitHub**, você encontrará meus projetos, onde compartilho minhas experiências e aprendendizados. Espero que você goste do meu trabalho e sinta-se à vontade para entrar em contato comigo !
 <div/>
 
@@ -45,6 +44,6 @@ Sou estudante de programação com foco em **back-end**, artista e apaixonada po
 <a href = "mailto:brunasantos.ctt@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 <a href="https://www.linkedin.com/in/brunasantos-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href="" target="_black"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=be80ff" style="border-radius: 30px" target="_blank"></a> 
- </div>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=be80ff&height=120&section=footer"/>
